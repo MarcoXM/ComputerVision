@@ -4,7 +4,11 @@
 
 ### Pytorch： ![](http://progressed.io/bar/100?title=done)
 
-### Tensorflow： ![](http://progressed.io/bar/0?title=done)
+### Tensorflow 2.0 ： ![](http://progressed.io/bar/0?title=done)
+##### Umh... The code would uses tensorflow 2.0, Once RC version released, I would update as soon as possible.
+```python
+import tensorflow.keras as tf
+```
 
 
 These **python/Pytorch** scripts based on the Udacity deep-learning courses. And I have rewrited these with **TensorFlow and Keras.**
