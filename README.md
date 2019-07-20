@@ -17,6 +17,6 @@ And I have take some chinese notes and comments to have better interpretations.
 
 One problem involved with three differrent solution
 
->Keep learning
+>Keep learning, recently spend a lot of time on kaggle, keep learning
 >
 >Hoping everyone can enjoy the world of deep-learning!
