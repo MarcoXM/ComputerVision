@@ -1,3 +1,3 @@
 ## Introduction
 
-### Computor vission are not only image classification.
+### Works in Computer Vision.
